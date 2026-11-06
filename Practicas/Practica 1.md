@@ -1,5 +1,4 @@
 # Práctica 1 · Conceptos fundamentales
-[[00 Inicio|Inicio]] · [[01 Sesiones/Dia 1 - Fundamentos|Teoría]] · [[04 Soluciones/Soluciones 1|Soluciones]]
 
 ## A. Ejercicios de ProsKell
 
